@@ -1,0 +1,40 @@
+form-signin{
+    margin: 40% auto;
+}
+.color-background{
+    background-color: #287866;
+    position: absolute;
+    min-height: 100%;
+}
+.TextCenter{
+  text-align:center 
+}
+.gap{
+    margin-bottom:15px;
+}
+
+.signin-btn{
+    width: 100%;
+}
+
+.signup-btn{
+    width: 100%;
+    border: 2px solid black;
+}
+
+.card {
+    box-shadow: 0 16px 32px 0 rgb(255, 255, 255);
+    transition: 100s;
+    width: 100%;
+    padding: 10px 25px;
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  .container {
+    padding: 2px 16px;
+  }
+
+  
