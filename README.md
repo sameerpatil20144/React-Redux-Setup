@@ -13,7 +13,7 @@ You will also see any lint errors in the console.
 
 ### `npm run build`
 
-Just run this command in the current directory to prepare build and copy build folder files in backend public files:
+Just run this command in the current directory to prepare build and copy files from build folder and paste in backend public folder if does not exists in backend then make folder name 'public':
 
 Like In node.js
 
